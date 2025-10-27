@@ -4,7 +4,7 @@
 
 👋 Me chamo Eduardo Vieira tenho 20 anos<br/>
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na UNISO<br/>
-💻 Atuando como **Full stack developer intern** na **Mind Group**  
+💻 Atuando como **Estagiário Full Stack Developer** na **Mind Group**  
 
 
 ---
