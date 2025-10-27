@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nest,tailwind)](https://skillicons.dev)
 
 ---
 
