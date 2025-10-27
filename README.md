@@ -2,9 +2,9 @@
 
 # 🚀 Sobre mim
 
-👋 Me chamo Eduardo Vieira tenho 20 anos
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
-💼 Atuando como **Full stack developer intern** na **Mind Group**  
+👋 Me chamo Eduardo Vieira tenho 20 anos<br/>
+📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na UNISO<br/>
+💻 Atuando como **Full stack developer intern** na **Mind Group**  
 
 
 ---
@@ -25,7 +25,7 @@
 ---
 
 📫 **Entre em contato comigo:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-vieira-dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduard0vieira)
 - 📧 eduardohvieira05@gmail.com
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
