@@ -9,8 +9,13 @@
 
 ---
 
-### 🚀 Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nest,tailwind)](https://skillicons.dev)
+## 🎨 **Front-end**
+[![Front Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind)](https://skillicons.dev)
+
+---
+
+## 🛠️ **Back-end**
+[![Back Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
 ---
 
