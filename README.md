@@ -19,12 +19,12 @@
 
 ---
 
-### 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma)](https://skillicons.dev)
 
 ---
 
-### ⚙️ Ferramentas e Outras Skills
+## ⚙️ Ferramentas e Outras Skills
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,vercel,vite)](https://skillicons.dev)
 
 ---
