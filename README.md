@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=header"/>
 
 # 🚀 Sobre mim
 
@@ -33,4 +33,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduard0vieira)
 - 📧 eduardohvieira05@gmail.com
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer"/>
